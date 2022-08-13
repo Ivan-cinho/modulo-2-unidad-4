@@ -1,0 +1,25 @@
+*{
+
+}
+.carousel{
+    margin-bottom: 3rem;
+}
+.card{
+    margin: auto;
+}
+.row{
+    margin: 0;
+}
+H2{
+    margin: 4% auto 1% auto;
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.texto-formulario{
+    margin-top: 5%;
+}
